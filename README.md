@@ -29,20 +29,26 @@ This is a Burp Suite extension designed to test different content types in HTTP 
 **Sending Requests**:
    - Right-click on a request in Burp Suite (e.g., in the Proxy or Repeater tab).
    - Select "Send to TypeXplorer" from the context menu.
+   ![image 1](assets/1.png)
+
    - The request will be added to the extension's endpoint list.
+   - Now you have to check what test you want to do and click on `test selected`.
+   ![image 2](assets/2.png)
+
+   - After test done you can see this label and can check the result 
+   ![image 2](assets/4.png)
 
 **Deleting Entries**:
    - Select an endpoint in the list.
    - Press the delete key to remove it from the list.
 
-![image 1](assets/1.png)
-![image 2](assets/2.png)
 
 
 
 
 
-https://github.com/user-attachments/assets/32230033-1e3a-416b-8ec0-99fb41c9e565
+
+
 
 
 
