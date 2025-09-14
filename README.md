@@ -45,6 +45,21 @@ This is a Burp Suite extension designed to test different content types in HTTP 
    ![image 2](assets/4.png)
 
 
+## Examples
+You can see list of some write-ups and research related to this topic :
+
+   - [Why text/plain is evil for WAF](https://blog.sicuranext.com/why-text-plain-is-evil-for-web-application-firewall-and-input-validation/)
+   - [CSRF by change header](https://medium.com/@spettyial/oops-this-target-has-csrf-protection-b48db18b99aa)
+   - [CSRF](https://medium.com/@osamaavvan/json-csrf-to-formdata-attack-eb65272376a2)
+   - [CSRF](https://medium.com/@spettyial/oops-this-target-has-csrf-protection-b48db18b99aa)
+   - [Exploiting json based csrf](https://sallam.gitbook.io/sec-88/write-ups/exploiting-json-based-csrf-the-hidden-threat-in-profile-management)
+
+
+
+
+
+
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
